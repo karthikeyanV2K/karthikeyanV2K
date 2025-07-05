@@ -76,13 +76,11 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contact
 
 <p align="center">
-  <a href="mailto:karthikeyanv2k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/karthikeyanV2K/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://afot.in/"><img src="https://img.shields.io/badge/AFOT.in-00B0FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@ALLFORONETECH"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  📧 Email: <a href="mailto:karthikeyan@afot.in">karthikeyan@afot.in</a> <br>
+  🌐 Website: <a href="https://afot.in/">https://afot.in</a>
 </p>
 
 ---
