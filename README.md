@@ -1,4 +1,4 @@
-<!-- Profile Header Banner -->
+<!-- ✅ Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=220&section=header&text=Developer%20Mr.V2K&fontSize=48&fontAlign=50&fontColor=ffffff" />
 </p>
@@ -23,14 +23,14 @@
 
 ## 🛠️ My Toolbox
 
-### 👨‍💻 Languages
+### 👨‍💻 Languages  
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=solidity)
 ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Tools  
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)
@@ -38,7 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
 
-### 📦 Cloud & DevOps
+### ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws)
 ![EC2](https://img.shields.io/badge/-EC2-000?style=for-the-badge&logo=amazonec2)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?style=for-the-badge&logo=nginx)
@@ -46,11 +46,11 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=githubactions)
 
-### 🤖 AI/ML & Computer Vision
+### 🤖 AI/ML & Vision  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-000?style=for-the-badge&logo=google)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-000?style=for-the-badge&logo=scikit-learn)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
 
 ---
