@@ -12,11 +12,12 @@
 
 ```yaml
 Name: V V Karthikeyan
-Role: Full Stack Developer & Tech Entrepreneur
 Company: ALL FOR ONE TECH (AFOT)
-Focus:  Blockchain, Security, Cloud Architecture
+Focus: AI, Blockchain, Security, Cloud Architecture
 Motto: "Automate the Future, One Line at a Time"
 ```
+
+
 
 ## 🛠️ **Tech Arsenal**
 
@@ -93,19 +94,64 @@ Motto: "Automate the Future, One Line at a Time"
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Analytics & Contribution Graphs**
+
+### 🔥 **Performance Metrics**
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikeyanV2K&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyanV2K&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%" />
+  
+</div>
+
+### 🎨 **Advanced Contribution Visualizations**
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikeyanV2K&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyanV2K&theme=radical&hide_border=true" width="48%" />
+  <!-- 3D Contribution Calendar -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyanV2K&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true&custom_title=🚀%20Contribution%20Activity%20Graph" width="100%" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanV2K&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyanV2K&bg_color=0d1117&color=e73c7e&line=e73c7e&point=ffffff&area=true&hide_border=true" width="48%" />
+  <!-- Detailed Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikeyanV2K&theme=github_dark" width="100%" />
+  
+</div>
+
+### 📈 **Multi-Dimensional Analytics**
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthikeyanV2K&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karthikeyanV2K&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthikeyanV2K&theme=github_dark" width="32%" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthikeyanV2K&theme=github_dark&utcOffset=5.5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanV2K&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
+  
+</div>
+
+### 🌟 **Contribution Heatmap & Patterns**
+
+<div align="center">
+  
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/karthikeyanV2K/karthikeyanV2K/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  
+</div>
+
+### 🏆 **Achievement Showcase**
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikeyanV2K&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=FF6B6B&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanV2K&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" width="48%" />
   
 </div>
 
@@ -115,17 +161,6 @@ Motto: "Automate the Future, One Line at a Time"
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=karthikeyanV2K&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthikeyanV2K&repo=face-authentication-system&theme=radical&hide_border=true)](https://github.com/karthikeyanV2K/face-authentication-system)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthikeyanV2K&repo=decentralized-oauth3&theme=radical&hide_border=true)](https://github.com/karthikeyanV2K/decentralized-oauth3)
-  
 </div>
 
 ---
