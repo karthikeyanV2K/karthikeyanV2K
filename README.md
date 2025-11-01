@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Engineer+%26+Ethical+Innovator+%26+AI+Innovator;Founder+@+All+For+One+Tech;Building+the+Future+with+Code;Security,+Blockchain,+AI,+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Engineer+%26+Ethical+Innovator;Founder+%40+All+For+One+Tech;Building+the+Future+with+Code;Security+%E2%80%A2+Blockchain+%E2%80%A2+AI+%E2%80%A2+Cloud)](https://git.io/typing-svg)
   
 </div>
 
