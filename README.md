@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=V%20V%20Karthikeyan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Future%20of%20Autonomous%20Systems&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=V%20V%20Karthikeyan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20Mr.V2K%20•%20Building%20the%20Future%20of%20Autonomous%20Systems&descAlignY=58&descSize=16)
 
 </div>
 
