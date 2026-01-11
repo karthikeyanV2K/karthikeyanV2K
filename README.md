@@ -118,9 +118,9 @@ Working on autonomous systems that can think and act independently using large l
 I'm always interested in discussing new ideas, especially around autonomous systems, infrastructure security, or hardware-software integration.
 
 [![Website](https://img.shields.io/badge/Website-0078d4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://afot.in)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyan@afot.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeyanv2k)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karthikeyanv2k)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyan56v@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v-v-karthikeyan)
+
 
 </div>
 
