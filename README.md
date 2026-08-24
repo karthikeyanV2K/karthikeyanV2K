@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=V%20V%20Karthikeyan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20Mr.V2K%20•%20Building%20the%20Future%20of%20Autonomous%20Systems&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=V%20V%20Karthikeyan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%40%20ALL%20FOR%20ONE%20TECH%20•%20Building%20the%20Future%20of%20Autonomous%20Systems&descAlignY=58&descSize=16)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## Who I Am
 
-I'm an engineer who builds things that matter—autonomous systems powered by LLMs, secure infrastructure you can actually trust, and intelligent hardware-software solutions. My work sits at the intersection of AI, security, and low-level systems programming.
+I'm an engineer who builds things that matter — autonomous systems powered by LLMs, secure infrastructure you can actually trust, and intelligent hardware-software solutions. My work sits at the intersection of AI, security, and low-level systems programming.
 
 Right now, I'm deep into creating self-hosted infrastructure that doesn't compromise on security, and experimenting with embedded intelligence that bridges the physical and digital worlds.
 
@@ -84,7 +84,7 @@ Right now, I'm deep into creating self-hosted infrastructure that doesn't compro
 
 ## Recent Work
 
-Working on autonomous systems that can think and act independently using large language models, building security-first infrastructure that you can host yourself, and creating intelligence at the hardware level—not just in the cloud.
+Working on autonomous systems that can think and act independently using large language models, building security-first infrastructure that you can host yourself, and creating intelligence at the hardware level — not just in the cloud.
 
 **Current experiments:**
 - LLM-powered autonomous agents for real-world tasks
@@ -107,21 +107,6 @@ Working on autonomous systems that can think and act independently using large l
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanV2K&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthikeyanV2K&theme=tokyonight&utcOffset=5.5" width="49%" />
-</div>
-
----
-
-## Get in Touch
-
-<div align="center">
-
-I'm always interested in discussing new ideas, especially around autonomous systems, infrastructure security, or hardware-software integration.
-
-[![Website](https://img.shields.io/badge/Website-0078d4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://afot.in)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyan56v@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v-v-karthikeyan)
-
-
 </div>
 
 ---
